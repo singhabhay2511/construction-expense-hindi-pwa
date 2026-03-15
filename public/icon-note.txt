@@ -1,0 +1,5 @@
+Create two square PNG icons:
+- icon-192.png
+- icon-512.png
+
+A plain dark background with a white rupee symbol or the Hindi letter "ख" is enough for first use.
